@@ -2,7 +2,7 @@
 
 <img src="./assets/Captura de tela 2025-03-09 214851.png"></img>
 
-<p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo um deles o Number Format . Utilzei linguagens como:</p>
+<p>Projeto concluído com sucesso! 🎉 O Conversor de Moedas permite converter valores de dólar ou euro para real de forma simples e rápida. Esse projeto foi desenvolvido com o apoio de Rodolfo Mori e da comunidade Dev Club, e foi uma ótima experiência de aprendizado!</p>
 <br>
 <ul>
 <li> 
