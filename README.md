@@ -1,5 +1,7 @@
 <h1>Conversor de moedas</h1>
 
+<img src="./assets/Captura de tela 2025-03-09 214851.png"></img>
+
 <p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo um deles o Number Format . Utilzei linguagens como:</p>
 <br>
 <ul>
